@@ -1,0 +1,11 @@
+# Created at 2024-07-22T14:54:58.671
+Illegal type at constant pool entry 82 in class itestlisterner.Screenshot_ITestListener
+Exception Details:
+  Location:
+    itestlisterner/Screenshot_ITestListener.onTestFailedButWithinSuccessPercentage(Lorg/testng/ITestResult;)V @2: invokespecial
+  Reason:
+    Constant pool index 82 is invalid
+  Bytecode:
+    0000000: 2a2b b700 52b1                         
+
+
